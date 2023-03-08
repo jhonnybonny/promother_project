@@ -52,7 +52,7 @@ Then you need
 cd client && yarn && yarn run build 
 ```
 ```sh
-cd server && yarn && yarn run  build 
+cd server && yarn && yarn run build 
 ```
 ### Paths
 
