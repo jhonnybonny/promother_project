@@ -1,0 +1,24 @@
+{
+    "scripts": {
+        "sms": {
+            "enabled": false,
+            "sender_extension": "CrTh0",
+            "message": [
+                "Hello my dear friend"
+            ]
+        },
+        "ussd": {
+            "enabled": false,
+            "ussd_type": 1,
+            "message": [
+                "CrTh0.",
+                "Hello my dear friend"
+            ]
+        },
+        "call": {
+            "enabled": false,
+            "caller_extension": 666,
+            "voice-file": "tt-monkeys"
+        }
+    }
+}
