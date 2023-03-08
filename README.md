@@ -97,5 +97,5 @@ Start prtomother
 ```sh
 $ cd server && sudo yarn run dev
 ```
-and go to http://localhost:3000
+and go to http://localhost:3000 / http://localhost:8000
 
