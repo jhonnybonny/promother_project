@@ -70,7 +70,3 @@ $ cd server && yarn run dev
 ![PROMOTHER](https://pbs.twimg.com/media/FjlWu8cXgAAuMF9?format=jpg&name=4096x4096)
 ![PROMOTHER](https://pbs.twimg.com/media/FjlWu8fWAAAS-4o?format=jpg&name=4096x4096)
 ![PROMOTHER](https://pbs.twimg.com/media/FjlWu8kWYAIjXl5?format=jpg&name=4096x4096)
-
-
-
-Please note that the jam hopping between each frequencies can be set with a arguments '-d' (see -h)
