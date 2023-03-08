@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.last-cell-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.loader {
+  border: 3px solid #f3f3f3;
+  border-top: 3px solid #3498db;
+  border-radius: 50%;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.server-link {
+  display: inline-flex;
+  align-items: center;
+  color: inherit;
+  font-size: inherit;
+}
+.center-flex {
+  display: flex;
+  align-items: center;
+}
+.input-no-styles {
+  max-width: 120px!important;
+}
+.input-no-styles::before, .input-no-styles::after {
+  display: none;
+}
+.update-icon {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  border-radius: 5%;
+}
+.update-icon.absolute {
+  position: absolute;
+  right: 20px;
+  top: 25px;
+}
+.update-icon div {
+  display: block;
+  margin-right: 20px;
+}
+.update-icon span {
+  color: #ffa726;
+  margin-left: 5px;
+  display: inline-block;
+}
+.console {
+  background-color: #000;
+  max-height: 40vh;
+  overflow-y: auto;
+}
