@@ -73,4 +73,4 @@ $ cd server && yarn run dev
 
 
 
-Please note that the jam hopping between each frequencies can be set with a arguments '-d' (see -h).
+Please note that the jam hopping between each frequencies can be set with a arguments '-d' (see -h)
