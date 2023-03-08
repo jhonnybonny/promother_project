@@ -86,7 +86,7 @@ const resetCommand = `sudo killall -SIGINT "python3" ; sudo killall -9 "osmocon"
 
 Start prtomother
 ```sh
-$ cd server && yarn run dev
+$ cd server && sudo yarn run dev
 ```
 and go to http://localhost:3000
 
