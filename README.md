@@ -59,6 +59,7 @@ Then you need
 ```sh
 cd client && yarn && yarn run build 
 ```
+
 ```sh
 cd server && yarn && yarn run build 
 ```
