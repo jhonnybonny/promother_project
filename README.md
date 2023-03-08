@@ -16,7 +16,6 @@ __________________________
 <p align="center">
   <img src="https://pbs.twimg.com/media/FjlWu8cXgAAuMF9?format=jpg&name=4096x4096" width="800" />
 </p>
-
 <p align="center">
   <img src="https://pbs.twimg.com/media/FjlWu8fWAAAS-4o?format=jpg&name=4096x4096" width="400" />
   <img src="https://pbs.twimg.com/media/FjlWu8kWYAIjXl5?format=jpg&name=4096x4096" width="400" />
