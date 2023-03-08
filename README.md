@@ -1,5 +1,17 @@
-# PR0MOTH3R v2.0
-WEB GUI for osmo-nitb-scripts-calypsobts / osmo-nitb-scripts
+# PR0MOTH3R v2.0 &middot; [![Build Status](https://img.shields.io/travis/deathnon/deathnon/latest.svg?style=flat-square)](https://travis-ci.org/deathnon/deathnon) [![Website](https://img.shields.io/website-up-down-green-red/http/deathnon.com.svg?style=flat-square)](http://deathnon.com) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://deathnon.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/deathnon/deathnon/blob/master/LICENSE)
+<p>
+<img src="https://github.com/jhonnybonny/promother_project/blob/main/client/src/assets/icons/ico.png?raw=true" height="80"align="right">
+</p>
+
+
+<p>
+This project aims to create a user-friendly web-based Graphical User Interface (GUI) for managing your base stations. The GUI is built on top of the osmo-nitb-scripts-calypsobts OR osmo-nitb-scripts software packages, which are used to configure and operate cellular base stations.
+</p>
+
+
+__________________________
+
+
 
 <p align="center">
   <img src="https://pbs.twimg.com/media/FjlWu8cXgAAuMF9?format=jpg&name=4096x4096" width="800" />
