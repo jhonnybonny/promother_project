@@ -99,7 +99,4 @@ $ cd server && sudo yarn run dev
 ```
 and go to http://localhost:3000 / http://localhost:8000
 
-<div align="center"> 
-  <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/jhonnybonny/count.svg" />
-</div>
+
