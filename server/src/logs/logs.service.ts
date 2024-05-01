@@ -1,9 +1,9 @@
 import WebSocket from 'ws'
 import subProcess from "child_process";
 
-const command = `cd /usr/src/osmo-nitb-scripts-calypsobts && sudo gnome-terminal --geometry=75x20 -- ./auto.sh && sudo ./main.py -u `
+const command = `cd /usr/src/osmo-nitb-scripts-calypsobts && sudo gnome-terminal --geometry=75x20 -- ./auto.sh && sudo ./main.py -u`
 const stopCommand = `sudo killall -SIGINT "python3" ; sudo killall -9 "osmocon"`
-const resetCommand = `sudo killall -SIGINT "python3" ; sudo killall -9 "osmocon" ; sudo rm -rf /usr/src/CalypsoBTS/hlr.sqlite3 `
+const resetCommand = `sudo killall -SIGINT "python3" ; sudo killall -9 "osmocon" ; sudo rm -rf /usr/src/CalypsoBTS/hlr.sqlite3`
 const unknownCommand = `ping -t 8.8.8.8`
 
 // todo - a lot of refactoring
